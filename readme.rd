@@ -42,5 +42,13 @@ O sistema também incluirá relatórios gerenciais e indicadores de performance 
                |
                v
 +------------------------------------+
+|            Editar                  |
+| (Editar um funcionario,setor,nome  |
+| cargo,voltar para tabela           |
+| funcionarios)                     |
++------------------------------------+
+               |
+               v
++------------------------------------+
 |                Fim                |
 +------------------------------------+
