@@ -84,14 +84,14 @@ O sistema foi projetado para ser simples e eficaz no gerenciamento de dados de f
 
                                        
                                      ---IMAGENS DO PROJETO--- 
-![sistema-empresarial](https://github.com/user-attachments/assets/4aa75b1c-dec1-45b4-9ac4-1318ae8cbce3)
-![Captura de tela 2024-11-15 185013](https://github.com/user-attachments/assets/a0a03182-07ba-40fc-a016-5803f0e0c575)
-![Captura de tela 2024-11-15 185051](https://github.com/user-attachments/assets/6d63d3f1-1e55-4209-9b23-420902660e0e)
-![Captura de tela 2024-11-15 185104](https://github.com/user-attachments/assets/40d16b75-6012-473e-99c9-2320cbcc8532)
-![Captura de tela 2024-11-15 185142](https://github.com/user-attachments/assets/db77ff62-cf74-4e8e-b378-db1c5b76fb14)
-![Captura de tela 2024-11-15 185209](https://github.com/user-attachments/assets/3bc82374-830a-48b4-9df1-3c3f5ec9ec6e)
-![Captura de tela 2024-11-15 184858](https://github.com/user-attachments/assets/494b6b9a-772f-4efb-9474-b6704750f845)
-![Captura de tela 2024-11-15 184913](https://github.com/user-attachments/assets/c9508235-f49c-4fea-b2a9-d9dbe27fdfc7)
+![Captura de tela 2024-11-15 185013](https://github.com/user-attachments/assets/f457d729-4bc1-4e70-b7d1-3836a263498f)
+![Captura de tela 2024-11-15 185051](https://github.com/user-attachments/assets/e9673a2e-993b-4d61-a109-2c9e33cc2e5e)
+![Captura de tela 2024-11-15 185104](https://github.com/user-attachments/assets/57905e47-6368-410e-b03e-5f4417daec48)
+![Captura de tela 2024-11-15 185142](https://github.com/user-attachments/assets/275fb618-9e36-4d58-9b23-17bad7e21a2c)
+![Captura de tela 2024-11-15 185209](https://github.com/user-attachments/assets/ed38d42e-c0ff-4079-b509-bca891769cf3)
+![Captura de tela 2024-11-15 184858](https://github.com/user-attachments/assets/8236d8cd-e475-4e29-9e03-1fa7921d3aa7)
+![Captura de tela 2024-11-15 184913](https://github.com/user-attachments/assets/703c86a2-d2a1-4cdd-96a5-d9b0d445a90f)
+
 
 
 -------------------------
