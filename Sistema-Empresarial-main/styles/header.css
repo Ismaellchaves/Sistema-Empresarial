@@ -1,0 +1,12 @@
+.navbar {
+    background: linear-gradient(180deg, #39FF14 0%, hsl(227, 100%, 56%) 100%);
+}
+
+.navbar-nav {
+    background-color: rgba(0, 0, 0, 0.137);
+    border-radius: 10px;
+}
+
+.nav-item {
+    padding-right: 10px;
+}

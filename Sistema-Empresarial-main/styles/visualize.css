@@ -1,0 +1,36 @@
+.table-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.table-all tr td {
+    padding: 6px;
+}
+
+.table-div table, .title-table td, .info-table td {
+    border: 1px solid #000000;
+}
+
+.title-table {
+    font-weight: 600;
+}
+
+.info-table td {
+    font-family: "Arimo", sans-serif;
+}
+
+.error-text {
+    font-weight: 600;
+    color: #141cff;
+}
+
+.input-div-text {
+    font-weight: 600;
+}
+
+.input-div-data {
+    padding: 4px;
+    margin-right: 12px;
+    color: #000000;
+}

@@ -1,0 +1,99 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: #000000;
+
+    background: linear-gradient(180deg, #39FF14 0%, hsl(227, 100%, 56%) 100%);
+}
+
+.screen {
+    background-color: #e8e5e5;
+    width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 60px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.forms label {
+    font-weight: 500;
+}
+
+.forms input {
+    padding: 10px;
+    border: none;
+    font-family: "Arimo", sans-serif;
+    width: 100%;
+}
+
+.forms h1 {
+    padding-bottom: 20px;
+    color: #010201;
+}
+
+.forms input[type=submit] {
+    margin-top: 20px;
+    border: none;
+    padding: 10px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: #060404;
+    color: #39FF14;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.error {
+    text-align: center;
+    color: #8c243b;
+    padding-top: 30px;
+}
+
+/* Estilizando a caixa de seleção (checkbox) */
+.form-check-input {
+    background-color: #060404;  /* Fundo escuro */
+    border: 2px solid #39FF14;  /* Borda verde neon */
+    border-radius: 4px;  /* Bordas arredondadas */
+    width: 20px;  /* Largura da caixa */
+    height: 20px;  /* Altura da caixa */
+    transition: background-color 0.3s ease, border-color 0.3s ease; /* Transição suave */
+}
+
+/* Quando o usuário marcar o checkbox, muda a cor */
+.form-check-input:checked {
+    background-color: #39FF14;  /* Fundo verde neon quando marcado */
+    border-color: #39FF14;  /* Borda verde neon quando marcado */
+}
+
+/* Estilizando o label da checkbox (o texto ao lado da caixa de seleção) */
+.form-check-label {
+    color: #39FF14;  /* Texto verde neon */
+    font-size: 16px;  /* Tamanho do texto */
+}
+
+/* Estilizando o botão de cadastro */
+.new-button {
+    background-color: #060404;  /* Fundo escuro */
+    color: #39FF14;  /* Texto verde neon */
+    border: none;  /* Remove a borda do botão */
+    padding: 12px 24px;  /* Adiciona espaçamento interno */
+    font-size: 16px;  /* Tamanho da fonte */
+    font-weight: 600;  /* Peso da fonte */
+    border-radius: 8px;  /* Bordas arredondadas */
+    cursor: pointer;  /* Indica que é clicável */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Efeito de transição suave */
+}
+
+/* Efeito hover para o botão */
+.new-button:hover {
+    background-color: #39FF14;  /* Fundo verde neon ao passar o mouse */
+    color: #060404;  /* Texto escuro quando o mouse passa por cima */
+}
