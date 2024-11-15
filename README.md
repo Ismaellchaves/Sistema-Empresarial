@@ -1,4 +1,4 @@
-![bem-vindo](https://github.com/user-attachments/assets/f465f274-6720-4452-a2f1-d31881dbbcbe)
+![bem-vindo](https://github.com/user-attachments/assets/05f02a8e-4b18-4445-b063-f8a885739a23)
 
 
 
